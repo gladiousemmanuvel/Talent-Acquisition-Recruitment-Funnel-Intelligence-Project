@@ -35,7 +35,7 @@ Talent_Acquisition_Analytics/
 ```
 ## 📊 Dashboard Preview
 ## 🔗 Interactive Power BI Dashboard File
-* **Download Full Power BI (.pbix) File:** [Click Here to Download via Google Drive](https://drive.google.com/file/d/1A-EyCizwYcjZO4oy8oeABUqrCMgcm5th/view?usp=drive_link)
+* **Download Full Power BI (.pbix) File:** [Click Here to Download via Google Drive](https://drive.google.com/file/d/1A-EyCizwYcjZO4oy8oeABUqrCMgcm5th/view?usp=sharing)
 
 ## 📈 Impact & Core Results
 Applications Analyzed: Processed and evaluated 378.4K total candidate applications.
